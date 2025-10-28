@@ -81,7 +81,6 @@ OKX在CoinGecko的信任评分榜上排名第二(仅次于Bybit),属于头部交
 - OKB代币的折扣功能不可用(持有也没有额外优势)
 - 币种数量相对较少,只有150种左右
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q05aVkioyLQ" frameborder="0" allowfullscreen></iframe>
 
 ---
 
